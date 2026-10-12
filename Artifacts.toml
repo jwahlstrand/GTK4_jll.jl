@@ -1,0 +1,152 @@
+[[GTK4]]
+arch = "aarch64"
+git-tree-sha1 = "61a2a7c5f62c0ff2944ac4d541843054395494db"
+os = "macos"
+
+    [[GTK4.download]]
+    sha256 = "f83c211dce685e7ec49b7a273fc32a8a70cfc47c1bbd7bb4374961c28ab22136"
+    url = "https://github.com/jwahlstrand/GTK4_jll.jl/releases/download/GTK4-v4.22.5+0/GTK4.v4.22.5.aarch64-apple-darwin.tar.gz"
+[[GTK4]]
+arch = "aarch64"
+git-tree-sha1 = "966c43fda8478460aed317ecc7c94b15d25bdeb4"
+libc = "glibc"
+os = "linux"
+
+    [[GTK4.download]]
+    sha256 = "32aab7597581248ae64f425a2ccef9b9e50ac1d24f61c2f42b63a844ec32fc15"
+    url = "https://github.com/jwahlstrand/GTK4_jll.jl/releases/download/GTK4-v4.22.5+0/GTK4.v4.22.5.aarch64-linux-gnu.tar.gz"
+[[GTK4]]
+arch = "aarch64"
+git-tree-sha1 = "e507453fe987126eec9c3137e2b8bd63fcd50961"
+libc = "musl"
+os = "linux"
+
+    [[GTK4.download]]
+    sha256 = "f593f393d83885cec8e5b75f45c21aa34d6c74d9bf17038856adf86a684a284d"
+    url = "https://github.com/jwahlstrand/GTK4_jll.jl/releases/download/GTK4-v4.22.5+0/GTK4.v4.22.5.aarch64-linux-musl.tar.gz"
+[[GTK4]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "657f53028309d9c44e4955ad07aa643c8ee01016"
+libc = "glibc"
+os = "linux"
+
+    [[GTK4.download]]
+    sha256 = "1e461fd02bc4afbfe7e0a382126f7c84c5ffbffae9f491a9b6365f3fd11b4627"
+    url = "https://github.com/jwahlstrand/GTK4_jll.jl/releases/download/GTK4-v4.22.5+0/GTK4.v4.22.5.armv6l-linux-gnueabihf.tar.gz"
+[[GTK4]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "ddc57402da59ae424af06475375ed518eff48c50"
+libc = "musl"
+os = "linux"
+
+    [[GTK4.download]]
+    sha256 = "d2210789274c7ea9041d32689f8c6c0c0abb1ea9726958823e0c423f824be942"
+    url = "https://github.com/jwahlstrand/GTK4_jll.jl/releases/download/GTK4-v4.22.5+0/GTK4.v4.22.5.armv6l-linux-musleabihf.tar.gz"
+[[GTK4]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "3c6819902c030ca72e1ee432bc5e46d374883449"
+libc = "glibc"
+os = "linux"
+
+    [[GTK4.download]]
+    sha256 = "9dd7901617a187c74730870e3da28c5d2741c8133756a0f3e60aa0387b6e3153"
+    url = "https://github.com/jwahlstrand/GTK4_jll.jl/releases/download/GTK4-v4.22.5+0/GTK4.v4.22.5.armv7l-linux-gnueabihf.tar.gz"
+[[GTK4]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "06b121f708b48ad62db7cf1d6839f9a5af48f849"
+libc = "musl"
+os = "linux"
+
+    [[GTK4.download]]
+    sha256 = "c1f540b074c3f58a7de670e88cc572dbf7568bcf524732115185e95a990926ed"
+    url = "https://github.com/jwahlstrand/GTK4_jll.jl/releases/download/GTK4-v4.22.5+0/GTK4.v4.22.5.armv7l-linux-musleabihf.tar.gz"
+[[GTK4]]
+arch = "i686"
+git-tree-sha1 = "995c75ff82d25e484f31bcdde50a444eb045f498"
+libc = "glibc"
+os = "linux"
+
+    [[GTK4.download]]
+    sha256 = "bdaeffd8c0cd366da5b64a6de7fc58d238af2b5210059ffad19d43c2dc82ea47"
+    url = "https://github.com/jwahlstrand/GTK4_jll.jl/releases/download/GTK4-v4.22.5+0/GTK4.v4.22.5.i686-linux-gnu.tar.gz"
+[[GTK4]]
+arch = "i686"
+git-tree-sha1 = "6a359e0d1b57c6679183574385929db5b9b5b1d9"
+libc = "musl"
+os = "linux"
+
+    [[GTK4.download]]
+    sha256 = "92fc3871681411df74c3e946bd601865bed899d7c2c2cdd93613ac8aa5cdffc3"
+    url = "https://github.com/jwahlstrand/GTK4_jll.jl/releases/download/GTK4-v4.22.5+0/GTK4.v4.22.5.i686-linux-musl.tar.gz"
+[[GTK4]]
+arch = "i686"
+git-tree-sha1 = "71bfe8b2b960eeb8fd26b75dd92b8d196fcbac2b"
+os = "windows"
+
+    [[GTK4.download]]
+    sha256 = "e069da2a10a0e5966fbdbf793ff5d2556a53d94ecec158b9c27bca127f431f0c"
+    url = "https://github.com/jwahlstrand/GTK4_jll.jl/releases/download/GTK4-v4.22.5+0/GTK4.v4.22.5.i686-w64-mingw32.tar.gz"
+[[GTK4]]
+arch = "powerpc64le"
+git-tree-sha1 = "0f1d8c6b1ae96bbfba2d5f13de50b482820e0204"
+libc = "glibc"
+os = "linux"
+
+    [[GTK4.download]]
+    sha256 = "272e4b905d8d19032a47802f2f02b30c6bf6dccf4b96e33e46a94ecbdf647481"
+    url = "https://github.com/jwahlstrand/GTK4_jll.jl/releases/download/GTK4-v4.22.5+0/GTK4.v4.22.5.powerpc64le-linux-gnu.tar.gz"
+[[GTK4]]
+arch = "riscv64"
+git-tree-sha1 = "31defdd2c4965b1baca4a0376fc22082ea10162b"
+libc = "glibc"
+os = "linux"
+
+    [[GTK4.download]]
+    sha256 = "3dc472d8f14f204622819a3d5ddc99b2ef9b7328d8698d843bf2c44b85998463"
+    url = "https://github.com/jwahlstrand/GTK4_jll.jl/releases/download/GTK4-v4.22.5+0/GTK4.v4.22.5.riscv64-linux-gnu.tar.gz"
+[[GTK4]]
+arch = "x86_64"
+git-tree-sha1 = "656cb67491d369eb3c36d61a7bdd3701217e903e"
+os = "macos"
+
+    [[GTK4.download]]
+    sha256 = "d0f5d4d0c9af498e6d057c2a2d1451e4dc5e08a436c2e0ebfedfdedc63180ce5"
+    url = "https://github.com/jwahlstrand/GTK4_jll.jl/releases/download/GTK4-v4.22.5+0/GTK4.v4.22.5.x86_64-apple-darwin.tar.gz"
+[[GTK4]]
+arch = "x86_64"
+git-tree-sha1 = "f0882119da2514db5e30640819bb605bded95e05"
+libc = "glibc"
+os = "linux"
+
+    [[GTK4.download]]
+    sha256 = "f9d5a94ea37c007b6290ea77a4e1ff37688dfcb2ce59c03c3b2614a05025d5b4"
+    url = "https://github.com/jwahlstrand/GTK4_jll.jl/releases/download/GTK4-v4.22.5+0/GTK4.v4.22.5.x86_64-linux-gnu.tar.gz"
+[[GTK4]]
+arch = "x86_64"
+git-tree-sha1 = "96807f25cb995544b1103062ac21af2a4e6df555"
+libc = "musl"
+os = "linux"
+
+    [[GTK4.download]]
+    sha256 = "8ce87eca57bb75e6d72151e1130beb98ab0b6705528bd619087b7b0c11e4784d"
+    url = "https://github.com/jwahlstrand/GTK4_jll.jl/releases/download/GTK4-v4.22.5+0/GTK4.v4.22.5.x86_64-linux-musl.tar.gz"
+[[GTK4]]
+arch = "x86_64"
+git-tree-sha1 = "36dedf490b27861a995670349ce2cf16f0b3e8c2"
+os = "freebsd"
+
+    [[GTK4.download]]
+    sha256 = "5362dbf37cdbf86039f6e11669336b1cb68b58f19fc408a3bd304568c558ba75"
+    url = "https://github.com/jwahlstrand/GTK4_jll.jl/releases/download/GTK4-v4.22.5+0/GTK4.v4.22.5.x86_64-unknown-freebsd.tar.gz"
+[[GTK4]]
+arch = "x86_64"
+git-tree-sha1 = "eb7cbdfc432bad051e3e7bc0368c0b95d732243d"
+os = "windows"
+
+    [[GTK4.download]]
+    sha256 = "d189a282f6f381ca20e3f44b0c30dffeef9c15abacadf10fe32171b56c31f63c"
+    url = "https://github.com/jwahlstrand/GTK4_jll.jl/releases/download/GTK4-v4.22.5+0/GTK4.v4.22.5.x86_64-w64-mingw32.tar.gz"
